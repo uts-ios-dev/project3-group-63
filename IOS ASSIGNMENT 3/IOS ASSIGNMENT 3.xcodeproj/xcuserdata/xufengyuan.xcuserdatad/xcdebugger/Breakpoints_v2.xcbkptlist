@@ -10,7 +10,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../../Desktop/IOS ASSIGNMENT 3/IOS ASSIGNMENT 3/GameViewController.swift"
-            timestampString = "549344313.613054"
+            timestampString = "549882768.043298"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "38"
@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../../Desktop/IOS ASSIGNMENT 3/IOS ASSIGNMENT 3/GameViewController.swift"
-            timestampString = "549344313.613752"
+            timestampString = "549882768.043679"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "300"
-            endingLineNumber = "300"
+            startingLineNumber = "338"
+            endingLineNumber = "338"
             landmarkName = "calculate()"
             landmarkType = "7">
          </BreakpointContent>
@@ -42,11 +42,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../../Desktop/IOS ASSIGNMENT 3/IOS ASSIGNMENT 3/GameViewController.swift"
-            timestampString = "549344313.614091"
+            timestampString = "549882768.043943"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "314"
-            endingLineNumber = "314"
+            startingLineNumber = "352"
+            endingLineNumber = "352"
             landmarkName = "calculate()"
             landmarkType = "7">
          </BreakpointContent>
@@ -58,11 +58,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../../Desktop/IOS ASSIGNMENT 3/IOS ASSIGNMENT 3/GameViewController.swift"
-            timestampString = "549344313.61439"
+            timestampString = "549882768.044191"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "307"
-            endingLineNumber = "307"
+            startingLineNumber = "345"
+            endingLineNumber = "345"
             landmarkName = "calculate()"
             landmarkType = "7">
          </BreakpointContent>
@@ -74,11 +74,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../../Desktop/IOS ASSIGNMENT 3/IOS ASSIGNMENT 3/GameViewController.swift"
-            timestampString = "549344313.614722"
+            timestampString = "549882768.044439"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "301"
-            endingLineNumber = "301"
+            startingLineNumber = "339"
+            endingLineNumber = "339"
             landmarkName = "calculate()"
             landmarkType = "7">
          </BreakpointContent>
